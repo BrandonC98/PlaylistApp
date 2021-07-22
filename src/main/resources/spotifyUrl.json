@@ -1,5 +1,7 @@
 {
   "baseUrl" : "https://api.spotify.com/v1",
-  "newReleases" : "/browse/new-releases?"
+  "newReleases" : "/browse/new-releases?",
+  "baseTokenUrl" : "https://accounts.spotify.com/api",
+  "token" : "/token"
 
 }
